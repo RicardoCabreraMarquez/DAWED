@@ -1,3 +1,3 @@
 # Entorno Desarrollo
 
-Esta carpeta incluye la teoria de entorno de desarrollo
+Esta carpeta incluye la teoria  y ejercicios de entorno de desarrollo
