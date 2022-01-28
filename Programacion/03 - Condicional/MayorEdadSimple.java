@@ -1,4 +1,4 @@
-public class CondicionalSimple {
+public class MayorEdadSimple {
 	public static void main(String[] args) {
 		
 		int edad = Integer.parseInt(args[0]);

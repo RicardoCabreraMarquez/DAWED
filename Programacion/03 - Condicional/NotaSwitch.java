@@ -1,4 +1,4 @@
-public class PrintNotaSwitch {
+public class NotaSwitch {
 public static void main(String[] args) {
 int num = -1;
 

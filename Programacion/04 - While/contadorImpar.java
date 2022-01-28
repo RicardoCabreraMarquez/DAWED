@@ -4,7 +4,7 @@ public class contadorImpar {
 		int cont = 1; 
 
 		while(cont < 100){
-			cont += 2
+			cont += 2;
 			System.out.println(cont);
 		}		
 	}
